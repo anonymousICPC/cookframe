@@ -81,8 +81,7 @@ CH.ifa.draw.samples.javadraw.JavaDrawApp,createInitialDrawingView,3,1,1475605786
 
   *RSF were generated using:* Java2RSF.
  
-"The RSF files contain information such as actual software artifacts (and are described below). Domain-model files specify the valid verbs for these token-level RSF files. An RSF triple can represent an arc between two nodes to the graph editor: 
-arcType startNodeName endNodeName. For example, using a domain model that has Function and Data type nodes interconnected by call and data access arcs, a token-level RSF stream then contains triples like:"
+"The RSF files contain information such as actual software artifacts (and are described below). Domain-model files specify the valid verbs for these token-level RSF files. For example, using a domain model that has Function and Data type nodes interconnected by call and data access arcs, a token-level RSF stream then contains triples like:"
 
  
     call    main          printf  
@@ -103,7 +102,7 @@ arcType startNodeName endNodeName. For example, using a domain model that has Fu
    
  *File generated using:* CookFrame_FilterRules and CookFrame. 
  
- ![Alt Text](https://github.com/lascam-UFU/CookFrame/blob/master/Metamodelo.png)
+ ![Alt Text](https://github.com/anonymousICPC/cookframe/blob/master/Metamodelo.png)
 
 A Cookbook (as shown in Figure 1) is composed of several recipes (item B), one for each desired feature of the instantiated
 applications.The recipes are composed of activities for implementing the respective feature (item C). There are four main activities
@@ -156,7 +155,8 @@ remove them.
           
 ## Rules and Filter Example:
 
-![Alt Text](https://github.com/lascam-UFU/CookFrame/blob/master/Rules.PNG)
+![Alt Text](CH.ifa.draw.samples.javadraw.JavaDrawApp,addInternalFrameListener,3,1,1475605786413
+Rules.PNG)
 
  ![Alt Text](https://github.com/lascam-UFU/CookFrame/blob/master/RTInstanciacao7_4.PNG)
  
