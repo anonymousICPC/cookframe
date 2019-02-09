@@ -97,6 +97,7 @@ CH.ifa.draw.samples.javadraw.JavaDrawApp,createInitialDrawingView,3,1,1475605786
 - **4- Cookbook:** 
 
  ***Repository File: CookbookJHotDraw.rar *** https://github.com/anonymousICPC/cookframe/blob/master/CookbookJHotDraw.rar
+ 
   **This file presents the Cookbook generated for the JHotDraw 5.3 framework. This is composed of HTML pages and Download and click on
  the index.html to open the main Cookbook page that allows you to navigate through the document**
    
